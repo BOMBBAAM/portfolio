@@ -1,9 +1,5 @@
 # Kittipon Rakwong
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/kittipon-rakwong-6a909b254/)
-[![Email](https://img.shields.io/badge/Email-Contact-success)](mailto:kittipon.rw@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-+66%2095--496--5429-informational)](tel:+66954965429)
-
 ## About Me
 
 I'm Kittipon Rakwong, an Electrical Engineering student at Chulalongkorn University in Bangkok, Thailand. I'm passionate about data science, artificial intelligence, and statistics. Here's a snapshot of my academic and professional journey:
@@ -48,32 +44,3 @@ I'm Kittipon Rakwong, an Electrical Engineering student at Chulalongkorn Univers
 - Workshop on IoT, Automation, and Design Thinking, Samsung Solve for Tomorrow Mentorship program
 - Content creator and Master of Ceremonies of Funfueng camp, Vishnu camp, and Larngear camp
 - Teaching Calculus, Statistics, and Mathematics for undergraduate and high school students
-
-## Skills and Interests
-
-**Technical Skills**:
-- Data wrangling and analysis with SQL and Python
-- Big Data Analytics with PySpark
-- Data visualization and storytelling with Power BI and Tableau
-- Office 365
-
-**Languages**:
-- Thai (Native Speaker)
-- English (Intermediate Proficiency)
-- Japanese (Elementary Proficiency)
-
-**Transferable Skills**:
-- Leadership
-- Interpersonal
-- Problem Solving
-- Creativity
-- Teamwork
-
-**Interests**:
-- Investing
-- Kaggle
-- Tutoring
-- Sports
-- Reading
-- TED Talks
-- Podcasts
