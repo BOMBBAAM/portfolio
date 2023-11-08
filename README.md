@@ -1,4 +1,4 @@
-# Kittipon Rakwong
+# Data Scientist
 
 ## About Me
 
