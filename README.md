@@ -4,11 +4,10 @@
 
 I'm Kittipon Rakwong, an Electrical Engineering student at Chulalongkorn University in Bangkok, Thailand. I'm passionate about data science, artificial intelligence, and statistics. Here's a snapshot of my academic and professional journey:
 
-- **Education**: Bachelor of Engineering, Electrical Engineer Major
-  - Chulalongkorn University, Bangkok, Thailand
-  - GPA: 3.57 / 4.00 (6 semesters)
-
-- **Relevant Courses**: Data Science, Artificial Intelligence, Statistics, Optimization for Machine Learning, Principles of Marketing
+## Education
+Bachelor of Engineering, Electrical Engineer Major, Chulalongkorn University.
+  - **GPA**: 3.57 / 4.00 (6 semesters)
+  - **Relevant Courses**: Data Science, Artificial Intelligence, Statistics, Optimization for Machine Learning, Principles of Marketing
 
 ## Work Experience
 
