@@ -10,36 +10,35 @@ Bachelor of Engineering, Electrical Engineer Major, Chulalongkorn University.
   - **Relevant Courses**: Data Science, Artificial Intelligence, Statistics, Optimization for Machine Learning, Principles of Marketing
 
 ## Work Experience
+**Data Scientist @ Salary Hero (_August 2023 - Present=_)**
+- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
+- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
 
-### Data Analyst Intern
-**Advance Info Service Public Limited Company**
-- Bangkok, Thailand
-- June - August 2023
+**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
+- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
+- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
-- Participated in the "BBL Be1st Digital AIS POINTS" project, achieving a 14% increase in registration conversions and attracting 731 leads.
-- Utilized PySpark classification models and data-driven strategies to identify valuable leads.
-- Created impactful data visualizations using Tableau to enhance decision-making.
+## Projects
+### Data-Driven EEG Band Discovery with Decision Trees
+[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
-## Data Analytics Experience
+Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
 
-### PTT Stock Price Dynamical Analysis
-**Data Science Practicum, Chulalongkorn Business School Department, Chulalongkorn University**
-- 2023
+![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
-- Conducted in-depth analysis of PTT stock prices using a multi-factor approach, including external factors.
-- Developed a custom machine learning model to predict PTT stock prices accurately.
-- Created interactive visualizations and dashboards using Python and Power BI to present key findings.
+### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
+[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
-### Predicting COVID-19 Infection Probabilities
-**Department of Electrical Engineering, Chulalongkorn University**
-- 2021
+Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
 
-- Developed a predictive regression model to forecast COVID-19 spread on public transit in Bangkok.
-- Created interactive visualizations and dashboards to inform mitigation strategies.
+![Bike Study](/assets/img/bike_study.jpeg)
 
-## Certifications, Workshops, Training, and Extracurricular Activities
+## Talks & Lectures
+- Causality: The new science of an old question - GSP Seminar, Fall 2021
+- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
+- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
+- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
+- Weeks of Welcome Poster Competition - UTD, Fall 2019
+- A Brief Introduction to Networks - GSP Seminar, Spring 2019
 
-- Data Analyst Associate Certificate, Datacamp
-- Workshop on IoT, Automation, and Design Thinking, Samsung Solve for Tomorrow Mentorship program
-- Content creator and Master of Ceremonies of Funfueng camp, Vishnu camp, and Larngear camp
-- Teaching Calculus, Statistics, and Mathematics for undergraduate and high school students
+- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
